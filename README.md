@@ -1,10 +1,10 @@
-🎓 Grade Tracker (MERN Stack)
+##🎓Grade Tracker (MERN Stack)
 
 A full-stack Grade Tracker Web Application built using the MERN stack (MongoDB, Express, React, Node.js). This app helps students manage, track, and analyze their academic performance efficiently.
 
-🔗 Live Demo: https://grade-tracker-three.vercel.app
+##🔗 Live Demo: https://grade-tracker-three.vercel.app
 
-🚀 Features
+##🚀 Features
 🔐 User Authentication (Login / Register)
 📊 Add, Update, and Delete Grades
 📈 GPA / Performance Tracking
@@ -14,7 +14,8 @@ A full-stack Grade Tracker Web Application built using the MERN stack (MongoDB, 
 🌐 REST API backend
 
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
+
 Frontend:
 React.js
 Axios
