@@ -40,6 +40,9 @@ MONGO_URI=mongodb://127.0.0.1:27017/student-grade-tracker
 JWT_SECRET=your_jwt_secret_key
 ```
 
+Important:
+`JWT_SECRET` is required. If it is missing, login may appear to work incorrectly and protected routes like saving grades will fail.
+
 4. Start the backend:
 
 ```bash
